@@ -1,0 +1,10 @@
+c:\users\anuitex\source\repos\TRStPO\TRStPO\bin\Debug\TRStPO.Lab1.exe.config
+c:\users\anuitex\source\repos\TRStPO\TRStPO\bin\Debug\TRStPO.Lab1.exe
+c:\users\anuitex\source\repos\TRStPO\TRStPO\bin\Debug\TRStPO.Lab1.pdb
+c:\users\anuitex\source\repos\TRStPO\TRStPO\obj\Debug\TRStPO.Lab1.csprojAssemblyReference.cache
+c:\users\anuitex\source\repos\TRStPO\TRStPO\obj\Debug\TRStPO.Form1.resources
+c:\users\anuitex\source\repos\TRStPO\TRStPO\obj\Debug\TRStPO.Lab1.Properties.Resources.resources
+c:\users\anuitex\source\repos\TRStPO\TRStPO\obj\Debug\TRStPO.Lab1.csproj.GenerateResource.cache
+c:\users\anuitex\source\repos\TRStPO\TRStPO\obj\Debug\TRStPO.Lab1.csproj.CoreCompileInputs.cache
+c:\users\anuitex\source\repos\TRStPO\TRStPO\obj\Debug\TRStPO.Lab1.exe
+c:\users\anuitex\source\repos\TRStPO\TRStPO\obj\Debug\TRStPO.Lab1.pdb
